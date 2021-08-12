@@ -1,0 +1,2 @@
+# Smart-Dustbin-with-Arduino
+The IEEE MAS section with student activity members organized an event named Projexpo where we are said to select one of the themes listed and provide our project either by software or by hardware.i have opted for the theme environment and the project is "SMART DUSTBIN WITH ARDUINO".I have made this project with the online simulation tool called Tinkercad.I hope soon this will be implemented as a prototype model.
